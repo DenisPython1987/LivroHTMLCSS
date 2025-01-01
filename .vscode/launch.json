@@ -17,7 +17,8 @@
             "request": "launch",
             "reAttach": true,
             "url": "http://localhost/index.html",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "${workspaceFolder}",
+            "firefoxExecutable":"/usr/bin/firefox"
         },
         {
             "name": "Attach",
